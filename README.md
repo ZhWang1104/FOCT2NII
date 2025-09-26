@@ -7,7 +7,7 @@
 ## 📋 项目概述
 
 FOCT2NII是一个专业的医学眼科FOCT (Functional Optical Coherence Tomography) 数据处理工具包，专门用于将FOCT格式数据转换为NIfTI格式
-工具代码来自师兄，并由ai润色后，并加上详细的注释和何用说明
+工具代码来自师兄，并由ai润色后，并加上详细的注释和使用说明
 
 ### 🎯 主要功能
 
@@ -296,4 +296,5 @@ end
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+
 
